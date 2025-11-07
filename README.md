@@ -1,7 +1,8 @@
 # TP 2 : Encapsulation :
 
+---
 
-
+# Exercice 1
 
 ## Objectif pédagogique
 Appliquer les principes d’**encapsulation** en Python :
@@ -47,7 +48,9 @@ Historique des opérations :
 - Dépôt de 100.0 €
 - Intérêt ajouté : 100.0 € 
 ```
-
+##  Exemple d’exécution (image)
+ 
+Voici un exemple de l'exécution du programme (screenshot) :
 
 <img width="954" height="349" alt="image" src="https://github.com/user-attachments/assets/561fabcd-1aa1-4f97-9129-3bd5b8d29d71" />
 
@@ -94,9 +97,12 @@ Relevé du compte 2 :
 - 2025-11-07 16:29:55 - Dépôt de 200€
 
 ```
+
+##  Exemple d’exécution (image)
+ 
+Voici un exemple de l'exécution du programme (screenshot) :
+
 <img width="769" height="318" alt="image" src="https://github.com/user-attachments/assets/ed432988-e09c-45f5-893b-9504161c4875" />
 
-
----
 
 
